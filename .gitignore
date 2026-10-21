@@ -1,0 +1,14 @@
+# Local scratch and generated assets
+work/
+outputs/
+__pycache__/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.mp4
+*.mov
+*.mkv
+*.mp3
+*.wav
+*.m4a
